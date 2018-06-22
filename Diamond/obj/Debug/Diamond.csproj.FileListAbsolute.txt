@@ -1,0 +1,21 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\Diamond.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\Diamond.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\Diamond.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\obj\Debug\Diamond.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\obj\Debug\Diamond.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\Diamond.dll.config
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\Diamond.dll
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\Diamond.pdb
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\Diamond\obj\Debug\Diamond.dll
+C:\Users\James\Downloads\Programing\Diamond\obj\Debug\Diamond.pdb

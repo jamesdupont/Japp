@@ -1,0 +1,21 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\Metals.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\Metals.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\Metals.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\obj\Debug\Metals.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\obj\Debug\Metals.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Metals\obj\Debug\Metals.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\Metals.dll.config
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\Metals.dll
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\Metals.pdb
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\Metals\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\Metals\obj\Debug\Metals.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Metals\obj\Debug\Metals.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\Metals\obj\Debug\Metals.dll
+C:\Users\James\Downloads\Programing\Metals\obj\Debug\Metals.pdb

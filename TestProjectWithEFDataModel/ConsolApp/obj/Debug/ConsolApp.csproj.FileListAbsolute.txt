@@ -1,0 +1,160 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\System.Spatial.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\System.Spatial.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csprojResolveAssemblyReference.cache
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\System.Spatial.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\GemStones.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Metals.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Models.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Pearls.dll.config
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\System.Spatial.xml
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
+C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb
+C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe.config
+C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
+C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb
