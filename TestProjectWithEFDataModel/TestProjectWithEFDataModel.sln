@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{68C265D1-FAA7-4370-A659-1EF554C88EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metals", "..\Metals\Metals.csproj", "{02443431-E932-4B8A-8BB8-07BC532CFC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemStones", "..\GemStones\GemStones.csproj", "{EE9612A2-ACA6-4356-88B0-2BA63279CC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "..\Diamond\Diamond.csproj", "{8714568E-9A3A-4DCD-BF91-DE0033E30FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pearls", "..\Pearls\Pearls.csproj", "{916AAB31-BE6D-4E06-B08B-203F75F5FFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolApp", "ConsolApp\ConsolApp.csproj", "{7086897C-7AB0-4412-8945-69F7B4CFBB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest1", "MvcTest1\MvcTest1.csproj", "{7FBFBC29-EC2C-4379-BA15-A8857E720A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C265D1-FAA7-4370-A659-1EF554C88EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C265D1-FAA7-4370-A659-1EF554C88EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C265D1-FAA7-4370-A659-1EF554C88EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C265D1-FAA7-4370-A659-1EF554C88EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02443431-E932-4B8A-8BB8-07BC532CFC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02443431-E932-4B8A-8BB8-07BC532CFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02443431-E932-4B8A-8BB8-07BC532CFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02443431-E932-4B8A-8BB8-07BC532CFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9612A2-ACA6-4356-88B0-2BA63279CC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9612A2-ACA6-4356-88B0-2BA63279CC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9612A2-ACA6-4356-88B0-2BA63279CC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9612A2-ACA6-4356-88B0-2BA63279CC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8714568E-9A3A-4DCD-BF91-DE0033E30FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8714568E-9A3A-4DCD-BF91-DE0033E30FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8714568E-9A3A-4DCD-BF91-DE0033E30FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8714568E-9A3A-4DCD-BF91-DE0033E30FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916AAB31-BE6D-4E06-B08B-203F75F5FFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916AAB31-BE6D-4E06-B08B-203F75F5FFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916AAB31-BE6D-4E06-B08B-203F75F5FFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916AAB31-BE6D-4E06-B08B-203F75F5FFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7086897C-7AB0-4412-8945-69F7B4CFBB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7086897C-7AB0-4412-8945-69F7B4CFBB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7086897C-7AB0-4412-8945-69F7B4CFBB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7086897C-7AB0-4412-8945-69F7B4CFBB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBFBC29-EC2C-4379-BA15-A8857E720A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBFBC29-EC2C-4379-BA15-A8857E720A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBFBC29-EC2C-4379-BA15-A8857E720A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBFBC29-EC2C-4379-BA15-A8857E720A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jamesdupont.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Models\\Models.csproj
+		SccProjectName1 = ../Models
+		SccLocalPath1 = ..\\Models
+		SccProjectUniqueName2 = ..\\Metals\\Metals.csproj
+		SccProjectName2 = ../Metals
+		SccLocalPath2 = ..\\Metals
+		SccProjectUniqueName3 = ..\\GemStones\\GemStones.csproj
+		SccProjectName3 = ../GemStones
+		SccLocalPath3 = ..\\GemStones
+		SccProjectUniqueName4 = ..\\Diamond\\Diamond.csproj
+		SccProjectName4 = ../Diamond
+		SccLocalPath4 = ..\\Diamond
+		SccProjectUniqueName5 = ..\\Pearls\\Pearls.csproj
+		SccProjectName5 = ../Pearls
+		SccLocalPath5 = ..\\Pearls
+		SccProjectUniqueName6 = ConsolApp\\ConsolApp.csproj
+		SccProjectName6 = ConsolApp
+		SccLocalPath6 = ConsolApp
+		SccProjectUniqueName7 = MvcTest1\\MvcTest1.csproj
+		SccProjectName7 = MvcTest1
+		SccLocalPath7 = MvcTest1
+	EndGlobalSection
+EndGlobal

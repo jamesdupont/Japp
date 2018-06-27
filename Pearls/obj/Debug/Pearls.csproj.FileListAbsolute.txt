@@ -1,0 +1,21 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\Pearls.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\Pearls.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\Pearls.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\obj\Debug\Pearls.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\obj\Debug\Pearls.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Pearls\obj\Debug\Pearls.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\Pearls.dll.config
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\Pearls.dll
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\Pearls.pdb
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\Pearls\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\Pearls\obj\Debug\Pearls.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Pearls\obj\Debug\Pearls.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\Pearls\obj\Debug\Pearls.dll
+C:\Users\James\Downloads\Programing\Pearls\obj\Debug\Pearls.pdb

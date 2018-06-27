@@ -1,0 +1,21 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\GemStones.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\GemStones.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\GemStones.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\obj\Debug\GemStones.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\obj\Debug\GemStones.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\GemStones\obj\Debug\GemStones.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\GemStones.dll.config
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\GemStones.dll
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\GemStones.pdb
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\GemStones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\GemStones\obj\Debug\GemStones.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\GemStones\obj\Debug\GemStones.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\GemStones\obj\Debug\GemStones.dll
+C:\Users\James\Downloads\Programing\GemStones\obj\Debug\GemStones.pdb

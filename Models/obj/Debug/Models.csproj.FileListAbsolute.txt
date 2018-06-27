@@ -1,0 +1,51 @@
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Models.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Models.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Models.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Diamond.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\EntityFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\GemStones.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Metals.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Pearls.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Diamond.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\GemStones.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Metals.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Pearls.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\EntityFramework.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\obj\Debug\Models.dll
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\obj\Debug\Models.pdb
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\obj\Debug\Models.Migrations.m1.resources
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\obj\Debug\Models.csproj.GenerateResource.Cache
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Diamond.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\GemStones.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Metals.dll.config
+C:\Users\James\OneDrive\LaptopFiles\Documents\Visual Studio 2015\Projects\Models\bin\Debug\Pearls.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Models.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Models.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Models.pdb
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Diamond.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\EntityFramework.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\GemStones.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Metals.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Pearls.dll
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Diamond.pdb
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Diamond.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\GemStones.pdb
+C:\Users\James\Downloads\Programing\Models\bin\Debug\GemStones.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Metals.pdb
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Metals.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Pearls.pdb
+C:\Users\James\Downloads\Programing\Models\bin\Debug\Pearls.dll.config
+C:\Users\James\Downloads\Programing\Models\bin\Debug\EntityFramework.xml
+C:\Users\James\Downloads\Programing\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.dll
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.pdb
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.Migrations.M1.resources
+C:\Users\James\Downloads\Programing\Models\obj\Debug\Models.csproj.GenerateResource.Cache
