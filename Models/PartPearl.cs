@@ -5,7 +5,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-    public class PartPearl : baseEntity, iPart
+    public class PartPearl : BaseEntity, iPart
     {
         public PartPearl()
         {

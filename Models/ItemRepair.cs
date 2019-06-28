@@ -7,7 +7,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-    public class ItemRepair : baseEntity, iItem
+    public class ItemRepair : BaseEntity, iItem
     {
         public ItemRepair()
         {       
@@ -28,6 +28,7 @@ namespace Models
         [Column(TypeName ="money")]
         public decimal EstimatedValue { get; set; }
 
+        [MaxLength(30, ErrorMessage = "{0} can have a max of {1} characters")]
         public string ItemType { get; set; }
 
         [Required]

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class Part :  baseEntity
+    public class Part :  BaseEntity
     {
         public Part()
         {

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Models
 {
-    public class ItemAppraisal : baseEntity, Interfaces.iItem
+    public class ItemAppraisal : BaseEntity, Interfaces.iItem
     {
         public ItemAppraisal()
         {

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class ContactType : baseEntity
+    public class ContactType : BaseEntity
     {
         public ContactType()
         {

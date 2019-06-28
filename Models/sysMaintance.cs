@@ -9,7 +9,7 @@ namespace Models
 {
     public class sysMaintance
     {
-        public static void SeedDatabase(Models.alphaContext context)
+        public static void SeedDatabase(Models.AlphaContext context)
         {
             AddAllStaticData(context);
            // AddTestData(context);
@@ -19,7 +19,7 @@ namespace Models
         /// </summary>
         /// <param name="context"></param>
 
-        public static void AddTestData(Models.alphaContext context)
+        public static void AddTestData(Models.AlphaContext context)
         {
             var People = TestData.GetPerson();
             if (context.People.Count() == 0)
@@ -112,7 +112,7 @@ namespace Models
         /// List lookup data and data that will not change while the program is running
         /// </summary>
         /// <param name="context"></param>
-        public static void AddAllStaticData(Models.alphaContext context)
+        public static void AddAllStaticData(Models.AlphaContext context)
         {
            
             sysMaintance.AddMetalData(context);
@@ -124,7 +124,7 @@ namespace Models
 
         #region Static data
 
-        public static void AddDiamondData(alphaContext context)
+        public static void AddDiamondData(AlphaContext context)
         {
             int count = context.DiamondShapes.Count();
             if (count == 0)
@@ -134,7 +134,7 @@ namespace Models
 
             context.SaveChanges();
         }
-        public static void AddGemstoneData(Models.alphaContext context)
+        public static void AddGemstoneData(Models.AlphaContext context)
         {
             int count = context.Gemstones.Count();
             if (count == 0)
@@ -145,7 +145,7 @@ namespace Models
             }
             context.SaveChanges();
         }
-        public static void AddMetalData(Models.alphaContext context)
+        public static void AddMetalData(Models.AlphaContext context)
         {
             int count = context.MetalTypes.Count();
             if (count == 0)
@@ -154,7 +154,7 @@ namespace Models
             }
             context.SaveChanges();
         }
-        public static void AddPartTypes (Models.alphaContext context)
+        public static void AddPartTypes (Models.AlphaContext context)
         {
             int count = context.PartTypes.Count();
             if (count == 0)
@@ -176,7 +176,7 @@ namespace Models
 
             context.SaveChanges();
         }
-        public static void AddMetalFinish(Models.alphaContext context)
+        public static void AddMetalFinish(Models.AlphaContext context)
         {
             int count = context.MetalFinish.Count();
             if (count == 0)

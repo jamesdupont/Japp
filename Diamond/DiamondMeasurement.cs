@@ -11,7 +11,7 @@ namespace Diamond
     /// <summary>
     /// This is a transactional table used to store Data about the
     /// </summary>
-    public class DiamondMeasurement : baseEntity
+    public class DiamondMeasurement : BaseEntity
     {
             public DiamondMeasurement()
             {
@@ -25,14 +25,14 @@ namespace Diamond
             //This is the parentID
             public int PartDiamondID { get; set; }
             public decimal Depth { get; set; }
-            public bool isEstimatedDepth { get; set; }
+            public bool IsEstimatedDepth { get; set; }
         
             public ICollection<DiamondDiameterMeasurement> DiamondDiameterMeasurements { get; set; }
             public ICollection<DiamondTableMeasurement> DiamondTableMeasurements { get; set; }
             public void  SetDefaults()
                 {
                     base.SetBaseDefaults();
-                    isEstimatedDepth = false;
+                    IsEstimatedDepth = false;
                 }
         public decimal AverageDiameter()
         {

@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class PartSingleDiamond : baseEntity, iPart
+    public class PartSingleDiamond : BaseEntity, iPart
     {
         public PartSingleDiamond()
         {

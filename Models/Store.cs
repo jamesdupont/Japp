@@ -7,7 +7,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Models
 {
-    public class Store :baseEntity
+    public class Store :BaseEntity
     {
         public Store()
         {

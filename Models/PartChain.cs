@@ -5,7 +5,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-    public class PartChain : baseEntity, iPart
+    public class PartChain : BaseEntity, iPart
     {
         public PartChain()
         {
@@ -30,6 +30,8 @@ namespace Models
         public decimal Length { get; set; }
 
         public decimal Width { get; set; }
+
+        public decimal Thickness { get; set; }
 
         [Display(Name = "Catch Type")]
         public string CatchType { get; set; }

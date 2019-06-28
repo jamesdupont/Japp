@@ -6,7 +6,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Models
 {
-    public class Image : baseEntity
+    public class Image : BaseEntity
     {
         public Image()
         {
@@ -18,6 +18,7 @@ namespace Models
 
 
         public string ImageType { get; set; }
+
 
         [MaxLength(257, ErrorMessage = "{0} can have a max of {1} characters")]
         [Required]

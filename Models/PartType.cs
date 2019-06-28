@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Models
 {
-   public class PartType : baseEntity
+   public class PartType : BaseEntity
     {
         
         public PartType()

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace Models
 {
-    public class PartLabor : baseEntity, iPart
+    public class PartLabor : BaseEntity, iPart
     {
         public PartLabor()
         {

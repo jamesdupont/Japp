@@ -6,7 +6,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-     public class Item : baseEntity
+     public class Item : BaseEntity
     {
         public Item()
         {
@@ -31,8 +31,6 @@ namespace Models
         public decimal TotalCost { get; set; }
 
         public decimal Markup { get; set; }
-
-
 
         virtual public ICollection<Part> Parts { get; set; }
 

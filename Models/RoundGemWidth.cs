@@ -1,6 +1,6 @@
 ﻿namespace Models
 {
-    public class RoundGemWidth : baseEntity
+    public class RoundGemWidth : BaseEntity
     {
         public RoundGemWidth()
         {

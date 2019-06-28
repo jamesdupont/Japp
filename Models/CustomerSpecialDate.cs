@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class CustomerSpecialDate : baseEntity
+    public class CustomerSpecialDate : BaseEntity
     {
         public CustomerSpecialDate()
         {

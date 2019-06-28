@@ -7,7 +7,7 @@ using Models;
 
 namespace Models
 {
-     abstract  public class baseEntity 
+     abstract  public class BaseEntity 
     {        
         [Required]
         [ScaffoldColumn(false)]

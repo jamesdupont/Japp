@@ -1,17 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Metals;
-using GemStones;
-using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
-using System.Data.Entity.Core.Metadata.Edm;
-using Microsoft.Azure; // Namespace for CloudConfigurationManager
-using Microsoft.WindowsAzure.Storage; // Namespace for CloudStorageAccount
-using Microsoft.WindowsAzure.Storage.Blob; // Namespace for Blob storage types
 using Diamond;
+using Models;
 
 namespace ConsolApp
 {
@@ -24,27 +15,16 @@ namespace ConsolApp
             //byte[] x =  d.imageToByteArray(RoundBrilliant.bmp");
 
             // var x = Diamond.Calculations.MarquiseLengthToWidthRatio(8.79m, 4.5m);
+           ;
+            PartDiamond dp = new PartDiamond();
+            
 
-            using (Models.alphaContext context = new Models.alphaContext())
+            using (Models.AlphaContext context = new Models.AlphaContext())
             {
-                //try
-                //{ Models.sysMaintance.SeedDatabase(context); }
-                //catch (Exception ex)
-                //{
-                //    Console.WriteLine(ex.Message);
-                //    Console.Read();
-                //}
-
-                //List<DiamondShape> ds = DiamondData.CreateDiamondShapeList();
-                //var HeartShaped = ds.First<DiamondShape>(dr => dr.ShapeName == "Heart Shape");
-                //context.DiamondShapes.Add(HeartShaped);
-                //context.SaveChanges();
-
                 var Shape = new DiamondShape();
                 Shape = context.DiamondShapes.FirstOrDefault(s => s.ShapeName == "Triangular Shape");
 
-                DiamondMeasurement diaMeasure
-                    = new DiamondMeasurement
+                var diaMeasure  = new DiamondMeasurement
                     {
                         Depth = 3,
                         DiamondDiameterMeasurements = new List<DiamondDiameterMeasurement>
@@ -58,10 +38,8 @@ namespace ConsolApp
                      new DiamondTableMeasurement {TableMeasurement = 3m } }
                     };
 
-                List<string> xr = new List<string>();
-                xr.Add("Shallow");
-                xr.Add("Ideal");
-                xr.Add("Deep");
+                List<string> xr = new List<string>() { "Shallow", "Ideal","Deep"};
+
 
                 try
                 {
@@ -86,7 +64,7 @@ namespace ConsolApp
                     {
                         foreach (string depth in xr)
                         {
-                            decimal weight = dc.CalculateDiamondWeight(Shape.ShapeName, diaMeasure.DiamondDiameterMeasurements.ToList(),depth);
+                            decimal weight = dc.CalculateDiamondWeight(Shape.ShapeName, diaMeasure.DiamondDiameterMeasurements.ToList(), depth);
                             Console.WriteLine(weight.ToString());
                             Console.Read();
                         }
@@ -117,17 +95,7 @@ namespace ConsolApp
 
 
 
-            //////// Parse the connection string and return a reference to the storage account.
-            //////CloudStorageAccount storageAccount = CloudStorageAccount.Parse(
-            //////    CloudConfigurationManager.GetSetting("StorageConnectionString"));
 
-            //////CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
-
-            //////// Retrieve a reference to a container.
-            //////CloudBlobContainer container = blobClient.GetContainerReference("appimages");
-
-            ////////// Create the container if it doesn't already exist.
-            //////container.CreateIfNotExists();
 
 
 

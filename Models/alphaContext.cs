@@ -1,13 +1,11 @@
 namespace Models
 {
-    using System;
     using System.Data.Entity;
-    using System.Linq;
     using GemStones;
     using Metals;
     //using Diamond;
 
-    public class alphaContext : DbContext
+    public class AlphaContext : DbContext
     {
         // Your context has been configured to use a 'alphaContext' connection string from your application's 
         // configuration file (App.config or Web.config). By default, this connection string targets the 
@@ -15,7 +13,7 @@ namespace Models
         // 
         // If you wish to target a different database and/or database provider, modify the 'alphaContext' 
         // connection string in the application configuration file.
-        public alphaContext()
+        public AlphaContext()
             : base("name=alphaContext")
         {
 
@@ -53,12 +51,8 @@ namespace Models
 
         public virtual DbSet<PartMetal> PartMetals { get; set; }
 
-        public virtual DbSet<PartDiamond> PartDiamonds { get; set; }
-
-       
+        public virtual DbSet<PartDiamond> PartDiamonds { get; set; }      
         public virtual DbSet<Repair> Repairs { get; set; }
-
-   
         public virtual DbSet<ItemRepair> ItemRepairs { get; set; }
 
         public virtual DbSet<Image> Images { get; set; }

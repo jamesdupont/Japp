@@ -27,7 +27,7 @@ namespace Models.List
         }
         public static List<string> GetTableNamesInModel()
         {
-            using (Models.alphaContext dbContext = new Models.alphaContext())
+            using (Models.AlphaContext dbContext = new Models.AlphaContext())
             {
                 var metadata = ((IObjectContextAdapter)dbContext).ObjectContext.MetadataWorkspace;
 

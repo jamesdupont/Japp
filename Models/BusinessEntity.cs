@@ -8,7 +8,7 @@ using System.Data.Entity.ModelConfiguration;
 namespace Models
 {
     [Table("Person.BusinessEntity")]
-    public class BusinessEntity : baseEntity
+    public class BusinessEntity : BaseEntity
     {
 
         public virtual ICollection<BusinessEnitityAddress> BusinessEntityAddresses { get; set; }

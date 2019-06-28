@@ -12,7 +12,7 @@ namespace MvcTest1.Controllers
 {
     public class CustomersController : Controller
     {
-        private alphaContext db = new alphaContext();
+        private AlphaContext db = new AlphaContext();
 
         // GET: Customers
         public ActionResult Index()

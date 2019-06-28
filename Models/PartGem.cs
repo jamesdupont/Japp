@@ -9,7 +9,7 @@ using GemStones;
 
 namespace Models
 {
-    public class PartGem : baseEntity, iPart
+    public class PartGem : BaseEntity, iPart
     {
         public PartGem()
             {

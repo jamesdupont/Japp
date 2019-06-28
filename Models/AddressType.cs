@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class AddressType : baseEntity
+    public class AddressType : BaseEntity
     {
         public AddressType()
         {

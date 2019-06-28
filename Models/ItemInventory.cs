@@ -6,7 +6,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-    public class ItemInventory : baseEntity,  iItem
+    public class ItemInventory : BaseEntity,  iItem
     {
         public ItemInventory()
             {

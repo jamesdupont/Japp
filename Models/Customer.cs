@@ -7,7 +7,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Models
 {
-    public class Customer : baseEntity
+    public class Customer : BaseEntity
     {
         public Customer()
         {
@@ -42,10 +42,8 @@ namespace Models
 
         public static List<string> PersonTypeValues()
         {
-            List<string> returnValue = new List<string>();
-            returnValue.Add("Customer");
-
-
+            List<string> returnValue = new List<string>{ "Customer" };
+           
             return returnValue;
         }
 

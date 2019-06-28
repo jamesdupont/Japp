@@ -5,7 +5,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Models
 {
-    public class Address : baseEntity
+    public class Address : BaseEntity
     {
         public Address()
         {

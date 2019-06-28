@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace Models
 {
-   public class EmailAddress : baseEntity
+   public class EmailAddress : BaseEntity
     {
         public EmailAddress()
         {

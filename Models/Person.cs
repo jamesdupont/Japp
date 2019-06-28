@@ -7,7 +7,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Models
 {
-    public class Person : baseEntity
+    public class Person : BaseEntity
     {
         public Person()
         {

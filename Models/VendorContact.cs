@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class VendorContact : baseEntity
+    public class VendorContact : BaseEntity
     {
         public VendorContact()
         {

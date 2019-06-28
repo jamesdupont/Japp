@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class Repair : baseEntity
+    public class Repair : BaseEntity
     {
         public Repair()
         {         

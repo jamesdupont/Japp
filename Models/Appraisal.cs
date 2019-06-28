@@ -7,7 +7,7 @@ using Models.Interfaces;
 
 namespace Models
 {
-   public class Appraisal : baseEntity
+   public class Appraisal : BaseEntity
     {
         public Appraisal()
         {

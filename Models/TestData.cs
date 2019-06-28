@@ -11,7 +11,7 @@ namespace Models
 {
     public class TestData
     {
-        private alphaContext context = new Models.alphaContext();
+        private AlphaContext context = new Models.AlphaContext();
         public static List<Person> GetPerson()
         {
             List<Person> PersonList = new List<Person>();
@@ -25,7 +25,7 @@ namespace Models
 
         public static List<Customer> GetCustomers(List<Person> People)
         {
-            using (Models.alphaContext context = new Models.alphaContext())
+            using (Models.AlphaContext context = new Models.AlphaContext())
             {
                 List<Customer> PersonList = new List<Customer>();
                 var returnValue = new List<Customer>();
@@ -47,7 +47,7 @@ namespace Models
 
         public static List<VendorContact> GetVendorContact()
         {
-            using (Models.alphaContext context = new Models.alphaContext())
+            using (Models.AlphaContext context = new Models.AlphaContext())
             {
                 //List<VendorContact> PersonList = new List<VendorContact>();
                 var returnValue = new List<VendorContact>();
@@ -90,7 +90,7 @@ namespace Models
         {
             List<Address> returnValue = new List<Address>();
 
-            using (Models.alphaContext context = new Models.alphaContext())
+            using (Models.AlphaContext context = new Models.AlphaContext())
             {
                 returnValue.Add(new Address
                 {
@@ -121,7 +121,7 @@ namespace Models
         }
         public static List<EmailAddress> GetEmailAddressList()
         {
-            using (alphaContext context = new alphaContext())
+            using (AlphaContext context = new AlphaContext())
             {
                 List<EmailAddress> returnValue = new List<EmailAddress>();
 
@@ -148,7 +148,7 @@ namespace Models
         {
             List<Item> retrunValue = new List<Item>();
 
-            using (alphaContext context = new alphaContext())
+            using (AlphaContext context = new AlphaContext())
             {
                 retrunValue.Add(new Item
                 {
@@ -166,7 +166,7 @@ namespace Models
         {
             List<Repair> retrunValue = new List<Repair>();
 
-            using (alphaContext context = new alphaContext())
+            using (AlphaContext context = new AlphaContext())
             {
                 retrunValue.Add(new Repair
                 {
@@ -184,7 +184,7 @@ namespace Models
     {
         List<ItemRepair> retrunValue = new List<ItemRepair>();
 
-        using (alphaContext context = new alphaContext())
+        using (AlphaContext context = new AlphaContext())
         {
 
             retrunValue.Add(new ItemRepair {
@@ -252,7 +252,7 @@ namespace Models
 
         }
 
-        public static  void  GetGemParts(Models.alphaContext context)
+        public static  void  GetGemParts(Models.AlphaContext context)
         {
 
             var Part = new PartGem
@@ -295,7 +295,7 @@ namespace Models
             context.SaveChanges();
         
         }
-        public static void AddDiamondPart(alphaContext context)
+        public static void AddDiamondPart(AlphaContext context)
         {
             int count = context.PartDiamonds.Count();
             if (count == 0)

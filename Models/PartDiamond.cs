@@ -6,7 +6,7 @@ using Diamond;
 
 namespace Models
 {
-    public class PartDiamond : baseEntity, iPart
+    public class PartDiamond : BaseEntity, iPart
     {
         public PartDiamond()
         {

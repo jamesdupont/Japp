@@ -7,7 +7,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace Diamond
 {
-    abstract public class baseEntity
+    abstract public class BaseEntity
     {
         [Required]
         [ScaffoldColumn(false)]

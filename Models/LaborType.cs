@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models
 {
-    public class LaborType : baseEntity
+    public class LaborType : BaseEntity
     {
        public LaborType()
         {

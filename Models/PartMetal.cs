@@ -6,7 +6,7 @@ using Metals;
 
 namespace Models
 {
-    public class PartMetal : baseEntity, iPart 
+    public class PartMetal : BaseEntity, iPart 
     {
         public PartMetal()
         {
