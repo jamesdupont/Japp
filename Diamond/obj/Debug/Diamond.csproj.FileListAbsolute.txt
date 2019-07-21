@@ -31,3 +31,6 @@ C:\Git\Japp\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
 C:\Git\Japp\Diamond\obj\Debug\Diamond.csproj.CopyComplete
 C:\Git\Japp\Diamond\obj\Debug\Diamond.dll
 C:\Git\Japp\Diamond\obj\Debug\Diamond.pdb
+C:\Git\Japp\Diamond\bin\Debug\nunit.framework.dll
+C:\Git\Japp\Diamond\bin\Debug\nunit.framework.pdb
+C:\Git\Japp\Diamond\bin\Debug\nunit.framework.xml
