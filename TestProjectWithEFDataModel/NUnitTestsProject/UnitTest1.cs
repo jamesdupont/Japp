@@ -29,7 +29,19 @@ namespace Tests
 					new DiamondTableMeasurement {TableMeasurement = 3.05m}
 				};
 			d.DiamondMeasurement.Depth = 3m;
-				
+
+			d.DiamondShapeID = 0;//for Round
+
+			//Set Quality
+			d.LowerClarityGrade = "VS1";
+			d.TopClarityGrade = "VVS1";
+			d.TopColorGrade = "D";
+			d.LowerColorGrade = "H";
+			//Accounting
+			d.Part.Cost = 100m;
+			d.Part.Quantity = 3;
+			d.PricePerCarat = 300m;
+			
 			var count = d.DiamondMeasurement.DiamondDiameterMeasurements.Count();
 			
 			Assert.AreEqual(count,4);

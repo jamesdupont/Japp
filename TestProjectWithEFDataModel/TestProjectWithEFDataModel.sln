@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolApp", "ConsolApp\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestsProject", "NUnitTestsProject\NUnitTestsProject.csproj", "{608893CB-DBAF-41A1-977C-0D527F0F82D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{290ABBEE-D179-4F93-8E1B-70E97136F644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{608893CB-DBAF-41A1-977C-0D527F0F82D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{608893CB-DBAF-41A1-977C-0D527F0F82D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{608893CB-DBAF-41A1-977C-0D527F0F82D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290ABBEE-D179-4F93-8E1B-70E97136F644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290ABBEE-D179-4F93-8E1B-70E97136F644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290ABBEE-D179-4F93-8E1B-70E97136F644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290ABBEE-D179-4F93-8E1B-70E97136F644}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
