@@ -9,10 +9,10 @@ namespace Diamond
     public class DiamondDiameterMeasurement
     {
         [Key]
-        public int DiamondDiameterMeasurementsID { get; set; }
+        public int DiamondDiameterMeasurementID { get; set; }
 
         //This is the parent
-        public int DiamondShapeMesurementsID { get; set; }
+        public int DiamondMeasurementID { get; set; }
 
         public decimal Diameter { get; set; }
 
