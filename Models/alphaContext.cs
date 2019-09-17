@@ -84,22 +84,12 @@ namespace Models
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-           // modelBuilder.Configurations.Add(new baseEntityConfiguration());
+            //modelBuilder.Configurations.Add(new baseEntityConfiguration());
             modelBuilder.Configurations.Add(new PersonConfiguration());
             modelBuilder.Configurations.Add(new Customer.CustomercConfiguration());
             modelBuilder.Configurations.Add(new AddressConfiguration());
             modelBuilder.Configurations.Add(new Image.ImageConfiguration());
         }
 
-
-
-
-
-
-        //public class MyEntity
-        //{
-        //    public int Id { get; set; }
-        //    public string Name { get; set; }
-        //}
     }
 }

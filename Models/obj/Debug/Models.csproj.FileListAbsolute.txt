@@ -70,10 +70,10 @@ C:\Git\Japp\Models\bin\Debug\Pearls.dll.config
 C:\Git\Japp\Models\bin\Debug\EntityFramework.xml
 C:\Git\Japp\Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Git\Japp\Models\obj\Debug\Models.csprojAssemblyReference.cache
-C:\Git\Japp\Models\obj\Debug\Models.Migrations.M1.resources
-C:\Git\Japp\Models\obj\Debug\Models.csproj.GenerateResource.cache
 C:\Git\Japp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Git\Japp\Models\obj\Debug\Models.csproj.CopyComplete
 C:\Git\Japp\Models\obj\Debug\Models.dll
 C:\Git\Japp\Models\obj\Debug\Models.pdb
-C:\Git\Japp\Models\obj\Debug\Models.Migrations.m22.resources
+C:\Git\Japp\Models\obj\Debug\Models.Migrations.m1.resources
+C:\Git\Japp\Models\obj\Debug\Models.csproj.GenerateResource.cache
+C:\Git\Japp\Models\obj\Debug\Models.Migrations.n1.resources

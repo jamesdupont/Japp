@@ -27,10 +27,12 @@ namespace Models
 
         public void SetBaseDefaults()
         {
-            LMD = DateTime.Now;
-            RCD = DateTime.Now;
-            RecordGuid = Guid.NewGuid();
-        }
+			LMD = DateTime.Now;
+			RCD = DateTime.Now;
+			var rg = Guid.NewGuid();
+			RecordGuid = rg;
+			RecordGuid = rg;
+		}
     }
 
 

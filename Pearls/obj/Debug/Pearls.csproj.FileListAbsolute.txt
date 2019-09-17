@@ -26,8 +26,8 @@ C:\Git\Japp\Pearls\bin\Debug\EntityFramework.dll
 C:\Git\Japp\Pearls\bin\Debug\EntityFramework.SqlServer.dll
 C:\Git\Japp\Pearls\bin\Debug\EntityFramework.xml
 C:\Git\Japp\Pearls\bin\Debug\EntityFramework.SqlServer.xml
-C:\Git\Japp\Pearls\obj\Debug\Pearls.csprojAssemblyReference.cache
 C:\Git\Japp\Pearls\obj\Debug\Pearls.csproj.CoreCompileInputs.cache
 C:\Git\Japp\Pearls\obj\Debug\Pearls.csproj.CopyComplete
 C:\Git\Japp\Pearls\obj\Debug\Pearls.dll
 C:\Git\Japp\Pearls\obj\Debug\Pearls.pdb
+C:\Git\Japp\Pearls\obj\Debug\Pearls.csprojAssemblyReference.cache

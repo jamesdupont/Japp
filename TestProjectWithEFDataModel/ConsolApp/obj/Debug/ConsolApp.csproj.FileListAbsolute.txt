@@ -156,8 +156,6 @@ C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Deb
 C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
 C:\Users\James\Downloads\Programing\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe.config
-C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
-C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.exe
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\ConsolApp.pdb
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\Diamond.dll
@@ -235,3 +233,5 @@ C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\bin\Debug\zh-Hant\System.Spatia
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csprojAssemblyReference.cache
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csproj.CoreCompileInputs.cache
 C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.csproj.CopyComplete
+C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.exe
+C:\Git\Japp\TestProjectWithEFDataModel\ConsolApp\obj\Debug\ConsolApp.pdb

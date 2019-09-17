@@ -1,17 +1,14 @@
-﻿
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 
 
 namespace Diamond
 {
-    /// <summary>
-    /// This is a transactional table used to store Data about the
-    /// </summary>
-    public class DiamondMeasurement : BaseEntity
+	/// <summary>
+	/// This is a transactional table used to store Data about the
+	/// </summary>
+	public class DiamondMeasurement : BaseEntity
     {
             public DiamondMeasurement()
             {

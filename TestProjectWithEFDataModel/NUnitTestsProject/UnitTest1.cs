@@ -40,7 +40,7 @@ namespace Tests
 			//Accounting
 			d.Part.Cost = 100m;
 			d.Part.Quantity = 3;
-			d.PricePerCarat = 300m;
+			d.PricePerCarat = 300;
 			
 			var count = d.DiamondMeasurement.DiamondDiameterMeasurements.Count();
 			

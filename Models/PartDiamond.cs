@@ -44,7 +44,11 @@ namespace Models
 
         public DiamondMeasurement DiamondMeasurement { get; set; }
 
-        public void SetDefaults()
+		public bool IsWeightEstimated { get; set; }
+
+		public double Weight { get; set; }
+
+		public void SetDefaults()
         {
             SetBaseDefaults();
         }

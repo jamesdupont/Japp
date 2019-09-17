@@ -26,8 +26,8 @@ C:\Git\Japp\Metals\bin\Debug\EntityFramework.dll
 C:\Git\Japp\Metals\bin\Debug\EntityFramework.SqlServer.dll
 C:\Git\Japp\Metals\bin\Debug\EntityFramework.xml
 C:\Git\Japp\Metals\bin\Debug\EntityFramework.SqlServer.xml
-C:\Git\Japp\Metals\obj\Debug\Metals.csprojAssemblyReference.cache
 C:\Git\Japp\Metals\obj\Debug\Metals.csproj.CoreCompileInputs.cache
 C:\Git\Japp\Metals\obj\Debug\Metals.csproj.CopyComplete
 C:\Git\Japp\Metals\obj\Debug\Metals.dll
 C:\Git\Japp\Metals\obj\Debug\Metals.pdb
+C:\Git\Japp\Metals\obj\Debug\Metals.csprojAssemblyReference.cache

@@ -92,6 +92,7 @@
   <ItemGroup>
     <Compile Include="AzureStorage.cs" />
     <Compile Include="CustomerTest.cs" />
+    <Compile Include="DiamondPartTest.cs" />
     <Compile Include="GemsTest.cs" />
     <Compile Include="ListTables.cs" />
     <Compile Include="MetalsTest.cs" />

@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Data.Entity;
-using System.Data.Entity.ModelConfiguration;
 
 namespace Diamond
 {
-    abstract public class BaseEntity
+	abstract public class BaseEntity
     {
         [Required]
         [ScaffoldColumn(false)]
@@ -27,9 +23,9 @@ namespace Diamond
 
         public void SetBaseDefaults()
         {
-            LMD = DateTime.Now;
-            RCD = DateTime.Now;
-            RecordGuid = Guid.NewGuid();
+            //LMD = DateTime.Now;
+            //RCD = DateTime.Now;
+            //RecordGuid = Guid.NewGuid();
         }
     }
 }

@@ -78,13 +78,13 @@
     <Compile Include="ItemAppraisal.cs" />
     <Compile Include="LaborType.cs" />
     <Compile Include="List\List.cs" />
-    <Compile Include="Migrations\201805260115138_M1.cs" />
-    <Compile Include="Migrations\201805260115138_M1.Designer.cs">
-      <DependentUpon>201805260115138_M1.cs</DependentUpon>
+    <Compile Include="Migrations\201907222309013_m1.cs" />
+    <Compile Include="Migrations\201907222309013_m1.Designer.cs">
+      <DependentUpon>201907222309013_m1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201903271314041_m22.cs" />
-    <Compile Include="Migrations\201903271314041_m22.Designer.cs">
-      <DependentUpon>201903271314041_m22.cs</DependentUpon>
+    <Compile Include="Migrations\201909172130054_n1.cs" />
+    <Compile Include="Migrations\201909172130054_n1.Designer.cs">
+      <DependentUpon>201909172130054_n1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PartLabor.cs" />
@@ -138,11 +138,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201805260115138_M1.resx">
-      <DependentUpon>201805260115138_M1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201907222309013_m1.resx">
+      <DependentUpon>201907222309013_m1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201903271314041_m22.resx">
-      <DependentUpon>201903271314041_m22.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201909172130054_n1.resx">
+      <DependentUpon>201909172130054_n1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

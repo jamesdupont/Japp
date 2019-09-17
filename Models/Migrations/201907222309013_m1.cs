@@ -3,7 +3,7 @@ namespace Models.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class M1 : DbMigration
+    public partial class m1 : DbMigration
     {
         public override void Up()
         {
@@ -237,12 +237,12 @@ namespace Models.Migrations
                 "dbo.DiamondDiameterMeasurements",
                 c => new
                     {
-                        DiamondDiameterMeasurementsID = c.Int(nullable: false, identity: true),
-                        DiamondShapeMesurementsID = c.Int(nullable: false),
+                        DiamondDiameterMeasurementID = c.Int(nullable: false, identity: true),
+                        DiamondMeasurementID = c.Int(nullable: false),
                         Diameter = c.Decimal(nullable: false, precision: 18, scale: 2),
                         DiamondMeasurement_DiamondMesurementsID = c.Int(),
                     })
-                .PrimaryKey(t => t.DiamondDiameterMeasurementsID)
+                .PrimaryKey(t => t.DiamondDiameterMeasurementID)
                 .ForeignKey("dbo.DiamondMeasurements", t => t.DiamondMeasurement_DiamondMesurementsID)
                 .Index(t => t.DiamondMeasurement_DiamondMesurementsID);
             
@@ -253,7 +253,7 @@ namespace Models.Migrations
                         DiamondMesurementsID = c.Int(nullable: false, identity: true),
                         PartDiamondID = c.Int(nullable: false),
                         Depth = c.Decimal(nullable: false, precision: 18, scale: 2),
-                        isEstimatedDepth = c.Boolean(nullable: false),
+                        IsEstimatedDepth = c.Boolean(nullable: false),
                         RecordGuid = c.Guid(nullable: false),
                         RCD = c.DateTime(nullable: false),
                         LMD = c.DateTime(nullable: false),
@@ -395,7 +395,7 @@ namespace Models.Migrations
                         ItemRepairID = c.Int(nullable: false, identity: true),
                         CompletionDate = c.DateTime(nullable: false),
                         EstimatedValue = c.Decimal(nullable: false, storeType: "money"),
-                        ItemType = c.String(),
+                        ItemType = c.String(maxLength: 30),
                         Instruction = c.String(nullable: false, maxLength: 500),
                         PickupDate = c.DateTime(nullable: false),
                         RepairID = c.Int(nullable: false),
@@ -490,6 +490,8 @@ namespace Models.Migrations
                         LowerClarityGrade = c.String(),
                         TopColorGrade = c.String(),
                         LowerColorGrade = c.String(),
+                        IsWeightEstimated = c.Boolean(nullable: false),
+                        Weight = c.Double(nullable: false),
                         RecordGuid = c.Guid(nullable: false),
                         RCD = c.DateTime(nullable: false),
                         LMD = c.DateTime(nullable: false),
